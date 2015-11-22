@@ -19,9 +19,7 @@ Purpose of My Shiny App
 
 - Functions as a way the school may visualize the scores for each classroom
 - Purpose is to produce charts used for teacher conferences
-- Will be modified for use by the school in the future<small>
-  - Classroom Subjects changed for relevance for each class/grade 
-  - Language changed to spanish </small>
+- Will be modified for actual use by the school in the future
   
 Application Description
 ========================================================
