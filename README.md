@@ -1,3 +1,5 @@
 # Creating-Data-Mobile-App
-I used r programming and shinyapp.io to create a mobile application.
-Use the app to input students grades and it will output a graph, used for teachers during parent teacher conferences at Colegio San Carlos in Lima Peru.
+
+Creating mobile app with shiny apps - Created for Course Project in Developing Data Products
+
+The function of this app is to help teachers visually present the class averages during parent teacher conferences. They will then be able to compare individual students to the class averages across all courses. This app is intended to be upgraded to be able to input a data table of the whole classes scores to output a graph of class averages across all courses.
